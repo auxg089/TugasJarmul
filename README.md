@@ -12,7 +12,7 @@
 [Chat.openai.com](https://chat.openai.com/)https://chat.openai.com/
 
 # 2.Cara Instalasi
-Tidak ada instalasi yang dibutuhkan karena program kita berbasis web/html
+Tidak ada instalasi yang dibutuhkan karena program kita berbasis web php
 
 # 3.Improvment
 Kami Menambahkan Fitur Timer yang Berfungsin untuk User mangatur seberapa lama dia ingin mendengarkan radio online ini
